@@ -28,3 +28,7 @@ object terere {
         //tambien (cantidad * 0.1).max(1)
     }
 }
+
+object probadoPush {
+    method entregarParcial() = true
+}
